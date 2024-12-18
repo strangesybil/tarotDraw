@@ -1,7 +1,7 @@
 # tarotDraw
 Tarot Journal
 Description:
-Tarot Journal is an interactive Python program that combines the mystique of tarot with the convenience of journaling. Users can draw tarot cards from the Major Arcana, receive insightful interpretations, and reflect on their meanings. This program is perfect for anyone looking to explore tarot readings in a personalized and engaging way.
+Tarot Journal is an interactive Python program that creates customized tarot readings for each individual user. Users can draw tarot cards from the Major Arcana, receive insightful interpretations, and reflect on their meanings. This program is perfect for anyone looking to explore tarot readings in a personalized and engaging way.
 
 Features:
 
